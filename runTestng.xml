@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default sutie">
+    <test name="Selenium">
+        <classes>
+            <class name="com.yujie.day1.TestNGDemo1"></class>
+        </classes>
+    </test>
+</suite>
+        

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-10T09:59:20Z" name="Default sutie" finished-at="2020-06-10T09:59:20Z" duration-ms="18">
+    <groups>
+    </groups>
+    <test started-at="2020-06-10T09:59:20Z" name="Selenium" finished-at="2020-06-10T09:59:20Z" duration-ms="18">
+      <class name="com.yujie.day1.TestNGDemo1">
+        <test-method is-config="true" signature="beforeTest01()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="beforeTest01" finished-at="2020-06-10T17:59:20Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest01 -->
+        <test-method signature="testCase1()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="testCase1" finished-at="2020-06-10T17:59:20Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="beforeMethod" finished-at="2020-06-10T17:59:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="afterMethod" finished-at="2020-06-10T17:59:20Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="beforeMethod" finished-at="2020-06-10T17:59:20Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase2()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="testCase2" finished-at="2020-06-10T17:59:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="afterMethod" finished-at="2020-06-10T17:59:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.yujie.day1.TestNGDemo1@66d1af89]" started-at="2020-06-10T17:59:20Z" name="afterTest" finished-at="2020-06-10T17:59:20Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.yujie.day1.TestNGDemo1 -->
+    </test> <!-- Selenium -->
+  </suite> <!-- Default sutie -->
+</testng-results>
