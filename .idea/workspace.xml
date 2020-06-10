@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffe92d33-995d-48e5-aa73-14f3cdfdc6f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cW953zD2DCd7X6bpwSWZj1WJok" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DataProviderTest.loginTest">
+    <configuration name="DataProviderTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day4" />
+      <option name="MAIN_CLASS_NAME" value="day4.DataProviderTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day3" />
+      <option name="MAIN_CLASS_NAME" value="day3.GridTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridTest.testChrome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day3" />
+      <option name="MAIN_CLASS_NAME" value="day3.GridTest" />
+      <option name="METHOD_NAME" value="testChrome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridTest.testGrid2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day3" />
+      <option name="MAIN_CLASS_NAME" value="day3.GridTest" />
+      <option name="METHOD_NAME" value="testGrid2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.regTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day3" />
+      <option name="MAIN_CLASS_NAME" value="day3.RegisterTest" />
+      <option name="METHOD_NAME" value="regTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataProviderTest.loginTest" />
+        <item itemvalue="TestNG.GridTest.testGrid2" />
+        <item itemvalue="TestNG.GridTest.testChrome" />
+        <item itemvalue="TestNG.GridTest" />
+        <item itemvalue="TestNG.RegisterTest.regTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe92d33-995d-48e5-aa73-14f3cdfdc6f8" name="Default Changelist" comment="" />
+      <created>1590633295820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590633295820</updated>
+      <workItem from="1590633297398" duration="16878000" />
+      <workItem from="1591148167359" duration="35566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="52" key="#Project_Structure" timestamp="1591261260660">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="240" y="52" key="#Project_Structure/0.23.1280.728@0.23.1280.728" timestamp="1591261260660" />
+    <state x="100" y="123" width="1080" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591670763583">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="100" y="123" width="1080" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.728@0.23.1280.728" timestamp="1591670763583" />
+    <state x="415" y="110" key="DetectedRootsChooserDialog" timestamp="1591260948564">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="415" y="110" key="DetectedRootsChooserDialog/0.23.1280.728@0.23.1280.728" timestamp="1591260948564" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1591767149482">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1591767149482" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1591261431148" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1591767149482">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1591767149482" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1591261431148" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1591767149481">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1591767149481" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1591261431148" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1591767149482">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1591767149482" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1591261431148" />
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1591676651639">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1591676651639" />
+    <state width="1238" height="226" key="GridCell.Tab.1.center" timestamp="1591676651638">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1591676651638" />
+    <state width="1238" height="226" key="GridCell.Tab.1.left" timestamp="1591676651638">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1591676651638" />
+    <state width="1238" height="226" key="GridCell.Tab.1.right" timestamp="1591676651639">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1591676651639" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1591767989624">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1591767989624" />
+    <state x="423" y="172" key="chooseDestDirectoryDialog" timestamp="1591265718139">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="423" y="172" key="chooseDestDirectoryDialog/0.23.1280.728@0.23.1280.728" timestamp="1591265718139" />
+    <state x="317" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1591148172270">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="317" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.728@0.23.1280.728" timestamp="1591148172270" />
+    <state x="305" y="75" width="670" height="676" key="search.everywhere.popup" timestamp="1591443755656">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="305" y="75" width="670" height="676" key="search.everywhere.popup/0.23.1280.728@0.23.1280.728" timestamp="1591443755656" />
+  </component>
+</project>
